@@ -311,7 +311,7 @@ This package is open-sourced under the MIT license. See the `LICENSE` file for d
 
 ## Author
 
-Zobir Oufkir — GitHub: @zobirofkir
+Zobir Ofkir — GitHub: @zobirofkir
 
 ## Acknowledgments
 
