@@ -1,0 +1,22 @@
+{
+    "name": "zobirofkir/laravel-service-generator",
+    "description": "Laravel service generator command",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Zobirofkir\\ServiceGenerator\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Zobirofkir\\ServiceGenerator\\ServiceGeneratorServiceProvider"
+            ]
+        }
+    },
+    "require": {
+        "php": "^8.1",
+        "illuminate/support": "^10|^11"
+    }
+}
