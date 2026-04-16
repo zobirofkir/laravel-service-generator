@@ -50,7 +50,7 @@ Note: These constraints reflect the versions this package is tested against. If 
 1. Install via Composer (recommended):
 
 ```bash
-composer require zobirofkir/laravel-service-generator --dev
+composer require zobirofkir/laravel-service-generator
 ```
 
 2. Service provider
